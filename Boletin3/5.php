@@ -28,7 +28,7 @@
                 }
                 
             }
-            echo"Función sumar(10,2): ".Calculadora::sumar(10, 2)."<br>";
+            echo"Función asumar(10,2): ".Calculadora::sumar(10, 2)."<br>";
             echo"Función restar(10,2): ".Calculadora::restar(10, 2)."<br>";
             echo"Función multiplicar(10,2): ".Calculadora::multiplicar(10, 2)."<br>";
             echo"Función dividir(10,2): ".Calculadora::dividir(10, 2)."<br>";

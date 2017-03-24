@@ -11,7 +11,7 @@
             class Empleado{
                 
               private $nombre;
-              private $sueldo;
+              private $sueldos;
               
                 function inicializar($nombre, $sueldo){
                     
